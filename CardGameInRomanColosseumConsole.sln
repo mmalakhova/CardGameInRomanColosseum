@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardGameInRomanColosseum", "CardGameInRomanColosseum\CardGameInRomanColosseum.csproj", "{B8AEB778-66B6-4D5C-8D84-72B795C370C0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardGameInRomanColosseumTests", "CardGameInRomanColosseumTests\CardGameInRomanColosseumTests.csproj", "{42CCBB06-27B4-4EEA-B7A0-44788AFFF20C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardGameInRomanColosseumDI", "CardGameInRomanColosseumDI\CardGameInRomanColosseumDI.csproj", "{A26BE179-E747-4529-A4F7-9E424063A0C4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{B8AEB778-66B6-4D5C-8D84-72B795C370C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8AEB778-66B6-4D5C-8D84-72B795C370C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8AEB778-66B6-4D5C-8D84-72B795C370C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42CCBB06-27B4-4EEA-B7A0-44788AFFF20C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42CCBB06-27B4-4EEA-B7A0-44788AFFF20C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42CCBB06-27B4-4EEA-B7A0-44788AFFF20C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42CCBB06-27B4-4EEA-B7A0-44788AFFF20C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A26BE179-E747-4529-A4F7-9E424063A0C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A26BE179-E747-4529-A4F7-9E424063A0C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A26BE179-E747-4529-A4F7-9E424063A0C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A26BE179-E747-4529-A4F7-9E424063A0C4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
