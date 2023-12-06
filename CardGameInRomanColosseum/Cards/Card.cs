@@ -3,12 +3,10 @@ namespace CardGameInRomanColosseum.Cards;
 
 public class Card
 {
-   private CardColor Color { get; }
-   private String Type { get; }
+   public CardColor Color { get; }
 
-   public Card(CardColor color, string type)
+   public Card(CardColor color)
    {
       Color = color;
-      Type = type;
    }
 }
