@@ -2,6 +2,6 @@
 
 public enum CardColor
 {
-    Red,
+    Red = 1,
     Black
 }
