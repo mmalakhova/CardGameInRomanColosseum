@@ -1,7 +1,10 @@
-﻿namespace CardGameInRomanColosseumDI;
+﻿using CardGameInRomanColiseum.Cards;
 
-public class MarkStrategy : IHostedService
+namespace CardGameInRomanColosseumDI;
+
+public class MarkStrategy : IHostedService, IStrategy
 {
+    private const int MarksCardNumber = 1;
     private readonly ILogger<MarkStrategy> _logger;
 
     public MarkStrategy(ILogger<MarkStrategy> logger)
@@ -17,5 +20,10 @@ public class MarkStrategy : IHostedService
     public async Task StopAsync(CancellationToken cancellationToken)
     {
         _logger.LogInformation("MarkStrategy service stopped");
+    }
+
+    public Card PickTheCard(Deck deck)
+    {
+        return deck.GetCardByNumber(MarksCardNumber - 1);
     }
 }

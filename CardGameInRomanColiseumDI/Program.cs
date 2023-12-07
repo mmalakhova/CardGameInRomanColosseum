@@ -15,8 +15,9 @@ namespace CardGameInRomanColosseumDI
                     services.AddHostedService<ColiseumExperimentWorker>();
                     services.AddScoped<DeckShuffler>();
                     services.AddScoped<ElonStrategy>();
-                    services.AddScoped<MarkStrategy>(); 
+                    services.AddScoped<MarkStrategy>();
                     services.AddScoped<Experiment>();
+                    services.AddScoped<Statistics>();
                 });
         }
     }

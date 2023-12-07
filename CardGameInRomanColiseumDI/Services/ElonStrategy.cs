@@ -1,7 +1,10 @@
-﻿namespace CardGameInRomanColosseumDI;
+﻿using CardGameInRomanColiseum.Cards;
 
-public class ElonStrategy : IHostedService
+namespace CardGameInRomanColosseumDI;
+
+public class ElonStrategy : IHostedService, IStrategy
 {
+    private const int ElonsCardNumber = 1;
     private readonly ILogger<ElonStrategy> _logger;
 
     public ElonStrategy(ILogger<ElonStrategy> logger)
@@ -17,5 +20,10 @@ public class ElonStrategy : IHostedService
     public async Task StopAsync(CancellationToken cancellationToken)
     {
         _logger.LogInformation("ElonStrategy service stopped");
+    }
+
+    public Card PickTheCard(Deck deck)
+    {
+        return deck.GetCardByNumber(ElonsCardNumber - 1);
     }
 }
