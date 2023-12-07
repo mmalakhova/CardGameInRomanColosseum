@@ -2,7 +2,7 @@
 
 public class Statistics
 {
-    private decimal _ratio;
+    public decimal _ratio { get; set; }
 
     public void CalculateStatistics(ExperimentResult experimentResult)
     {
