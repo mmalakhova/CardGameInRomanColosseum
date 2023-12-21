@@ -10,92 +10,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e237fd2e-9d88-403a-82c5-ca967416e3c8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.CardGameInRomanColosseumConsole/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CardGameInRomanColiseum/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CardGameInRomanColiseum/ExperimentResult.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CardGameInRomanColiseum/Statistics.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CardGameInRomanColiseum/Strategies/IStrategy.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CardGameInRomanColiseum/bin/Debug/net7.0/CardGameInRomanColiseum.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CardGameInRomanColiseum/bin/Debug/net7.0/CardGameInRomanColiseum.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CardGameInRomanColiseum/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CardGameInRomanColiseumDI/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CardGameInRomanColiseumDI/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CardGameInRomanColiseumDI/Properties/launchSettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CardGameInRomanColiseumDI/Services/ColiseumExperimentWorker.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CardGameInRomanColiseumDI/Services/DeckShuffler.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CardGameInRomanColiseumDI/Services/ElonStrategy.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CardGameInRomanColiseumDI/Services/Experiment.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CardGameInRomanColiseumDI/Services/MarkStrategy.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CardGameInRomanColiseumDI/obj/Debug/net7.0/CardGameInRomanColosseumDI.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CardGameInRomanColiseumDI/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CardGameInRomanColiseumDI/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CardGameInRomanColiseumTests/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CardGameInRomanColiseumTests/ExperimentTest.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CardGameInRomanColiseumTests/StrategyTest.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CardGameInRomanColiseumTests/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CardGameInRomanColosseumConsole/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CardGameInRomanColosseumConsole/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CardGameInRomanColosseumConsole/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CardGameInRomanColosseumConsole/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CardGameInRomanColosseum/CardGameInRomanColosseum.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/CardGameInRomanColiseum/CardGameInRomanColiseum.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CardGameInRomanColosseum/Cards/Card.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CardGameInRomanColiseum/Cards/Card.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CardGameInRomanColosseum/Cards/CardColor.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CardGameInRomanColosseum/Cards/Deck.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CardGameInRomanColiseum/Cards/Deck.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CardGameInRomanColosseum/Exceptions/DeckCapacityException.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CardGameInRomanColiseum/Exceptions/DeckCapacityException.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CardGameInRomanColosseum/Exceptions/EmptyDeckException.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CardGameInRomanColiseum/Exceptions/EmptyDeckException.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CardGameInRomanColosseum/Experiment.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CardGameInRomanColiseum/Experiment.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CardGameInRomanColosseum/Shuffler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CardGameInRomanColiseum/Shuffler.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CardGameInRomanColosseum/Strategy.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CardGameInRomanColiseum/Strategies/FirstCardStrategy.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CardGameInRomanColosseum/obj/CardGameInRomanColosseum.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/CardGameInRomanColiseum/obj/CardGameInRomanColosseum.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CardGameInRomanColosseum/obj/CardGameInRomanColosseum.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/CardGameInRomanColiseum/obj/CardGameInRomanColosseum.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CardGameInRomanColosseum/obj/CardGameInRomanColosseum.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/CardGameInRomanColiseum/obj/CardGameInRomanColosseum.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CardGameInRomanColosseum/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CardGameInRomanColiseum/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CardGameInRomanColosseum/obj/Debug/net7.0/CardGameInRomanColosseum.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CardGameInRomanColiseum/obj/Debug/net7.0/CardGameInRomanColosseum.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CardGameInRomanColosseum/obj/Debug/net7.0/CardGameInRomanColosseum.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CardGameInRomanColiseum/obj/Debug/net7.0/CardGameInRomanColosseum.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CardGameInRomanColosseum/obj/Debug/net7.0/CardGameInRomanColosseum.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/CardGameInRomanColiseum/obj/Debug/net7.0/CardGameInRomanColosseum.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CardGameInRomanColosseum/obj/Debug/net7.0/CardGameInRomanColosseum.GlobalUsings.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CardGameInRomanColiseum/obj/Debug/net7.0/CardGameInRomanColosseum.GlobalUsings.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CardGameInRomanColosseum/obj/Debug/net7.0/CardGameInRomanColosseum.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CardGameInRomanColiseum/obj/Debug/net7.0/CardGameInRomanColosseum.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CardGameInRomanColosseum/obj/Debug/net7.0/CardGameInRomanColosseum.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CardGameInRomanColiseum/obj/Debug/net7.0/CardGameInRomanColosseum.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CardGameInRomanColosseum/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/CardGameInRomanColiseum/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CardGameInRomanColosseum/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CardGameInRomanColiseum/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CardGameInRomanColosseum/obj/project.packagespec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CardGameInRomanColosseum/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/CardGameInRomanColiseum/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CardGameInRomanColosseumConsole.sln" beforeDir="false" afterPath="$PROJECT_DIR$/CardGameInRomanColiseumConsole.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CardGameInRomanColosseumDI/CardGameInRomanColosseumDI.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/CardGameInRomanColiseumDI/CardGameInRomanColiseumDI.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CardGameInRomanColosseumDI/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CardGameInRomanColosseumDI/obj/CardGameInRomanColosseumDI.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/CardGameInRomanColiseumDI/obj/CardGameInRomanColosseumDI.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CardGameInRomanColosseumDI/obj/CardGameInRomanColosseumDI.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/CardGameInRomanColiseumDI/obj/CardGameInRomanColosseumDI.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CardGameInRomanColosseumDI/obj/CardGameInRomanColosseumDI.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/CardGameInRomanColiseumDI/obj/CardGameInRomanColosseumDI.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CardGameInRomanColosseumDI/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CardGameInRomanColiseumDI/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CardGameInRomanColosseumDI/obj/Debug/net7.0/CardGameInRomanColosseumDI.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CardGameInRomanColiseumDI/obj/Debug/net7.0/CardGameInRomanColosseumDI.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CardGameInRomanColosseumDI/obj/Debug/net7.0/CardGameInRomanColosseumDI.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CardGameInRomanColiseumDI/obj/Debug/net7.0/CardGameInRomanColosseumDI.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CardGameInRomanColosseumDI/obj/Debug/net7.0/CardGameInRomanColosseumDI.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/CardGameInRomanColiseumDI/obj/Debug/net7.0/CardGameInRomanColosseumDI.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CardGameInRomanColosseumDI/obj/Debug/net7.0/CardGameInRomanColosseumDI.GlobalUsings.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CardGameInRomanColosseumDI/obj/Debug/net7.0/CardGameInRomanColosseumDI.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CardGameInRomanColiseumDI/obj/Debug/net7.0/CardGameInRomanColosseumDI.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CardGameInRomanColosseumDI/obj/Debug/net7.0/CardGameInRomanColosseumDI.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CardGameInRomanColiseumDI/obj/Debug/net7.0/CardGameInRomanColosseumDI.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CardGameInRomanColosseumDI/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/CardGameInRomanColiseumDI/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CardGameInRomanColosseumDI/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CardGameInRomanColiseumDI/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CardGameInRomanColosseumDI/obj/project.packagespec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CardGameInRomanColosseumDI/obj/rider.project.restore.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CardGameInRomanColosseumTests/CardGameInRomanColosseumTests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/CardGameInRomanColiseumTests/CardGameInRomanColiseumTests.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CardGameInRomanColosseumTests/DeckTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CardGameInRomanColiseumTests/DeckTest.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CardGameInRomanColosseumTests/ExperimentTest.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CardGameInRomanColosseumTests/StrategyTest.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CardGameInRomanColosseumTests/Usings.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CardGameInRomanColiseumTests/Usings.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CardGameInRomanColosseumTests/obj/CardGameInRomanColosseumTests.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/CardGameInRomanColiseumTests/obj/CardGameInRomanColosseumTests.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CardGameInRomanColosseumTests/obj/CardGameInRomanColosseumTests.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/CardGameInRomanColiseumTests/obj/CardGameInRomanColosseumTests.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CardGameInRomanColosseumTests/obj/CardGameInRomanColosseumTests.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/CardGameInRomanColiseumTests/obj/CardGameInRomanColosseumTests.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CardGameInRomanColosseumTests/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CardGameInRomanColiseumTests/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CardGameInRomanColosseumTests/obj/Debug/net7.0/CardGameInRomanColosseumTests.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CardGameInRomanColiseumTests/obj/Debug/net7.0/CardGameInRomanColosseumTests.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CardGameInRomanColosseumTests/obj/Debug/net7.0/CardGameInRomanColosseumTests.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CardGameInRomanColiseumTests/obj/Debug/net7.0/CardGameInRomanColosseumTests.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CardGameInRomanColosseumTests/obj/Debug/net7.0/CardGameInRomanColosseumTests.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/CardGameInRomanColiseumTests/obj/Debug/net7.0/CardGameInRomanColosseumTests.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CardGameInRomanColosseumTests/obj/Debug/net7.0/CardGameInRomanColosseumTests.GlobalUsings.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CardGameInRomanColiseumTests/obj/Debug/net7.0/CardGameInRomanColosseumTests.GlobalUsings.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CardGameInRomanColosseumTests/obj/Debug/net7.0/CardGameInRomanColosseumTests.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CardGameInRomanColiseumTests/obj/Debug/net7.0/CardGameInRomanColosseumTests.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CardGameInRomanColosseumTests/obj/Debug/net7.0/CardGameInRomanColosseumTests.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CardGameInRomanColiseumTests/obj/Debug/net7.0/CardGameInRomanColosseumTests.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CardGameInRomanColosseumTests/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/CardGameInRomanColiseumTests/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CardGameInRomanColosseumTests/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CardGameInRomanColiseumTests/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CardGameInRomanColosseumTests/obj/project.packagespec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CardGameInRomanColosseumTests/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/CardGameInRomanColiseumTests/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CardGameInRomanColiseumDI/CardGameInRomanColiseumDI.csproj.DotSettings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CardGameInRomanColosseumConsole/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CardGameInRomanColosseumConsole/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CardGameInRomanColiseum/bin/Debug/net7.0/CardGameInRomanColiseum.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CardGameInRomanColiseum/bin/Debug/net7.0/CardGameInRomanColiseum.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CardGameInRomanColiseum/bin/Debug/net7.0/CardGameInRomanColiseum.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CardGameInRomanColiseum/bin/Debug/net7.0/CardGameInRomanColiseum.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CardGameInRomanColiseumTests/CardGameInRomanColiseumTests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/CardGameInRomanColiseumTests/CardGameInRomanColiseumTests.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CardGameInRomanColiseumTests/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/CardGameInRomanColiseumTests/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CardGameInRomanColiseumTests/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CardGameInRomanColiseumTests/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CardGameInRomanColiseumTests/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/CardGameInRomanColiseumTests/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CardGameInRomanColiseumTests/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/CardGameInRomanColiseumTests/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,8 +29,13 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/a6d4befb9e671fcaa2cd58caafc9f1a81b5482bbd1f8c88a14826aa1016/Color.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CardGameInRomanColiseum/Experiment.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CardGameInRomanColiseumDI/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/marij/RiderProjects/CardGameInRomanColosseumConsole/CardGameInRomanColiseumDI/Services/ColiseumExperimentWorker.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CardGameInRomanColiseumDI/Services/ColiseumExperimentWorker.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CardGameInRomanColiseumDI/Services/DeckShuffler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/marij/RiderProjects/CardGameInRomanColosseumConsole/CardGameInRomanColiseumDI/Services/ElonStrategy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/marij/RiderProjects/CardGameInRomanColosseumConsole/CardGameInRomanColiseumDI/Services/Experiment.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/marij/RiderProjects/CardGameInRomanColosseumConsole/CardGameInRomanColiseumDI/Services/MarkStrategy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/marij/RiderProjects/CardGameInRomanColosseumConsole/CardGameInRomanColiseumTests/DeckTest.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -128,7 +56,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected=".NET Project.CardGameInRomanColosseum">
+  <component name="RunManager" selected=".NET Project.CardGameInRomanColosseumDI">
     <configuration name="CardGameInRomanColosseum" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -251,7 +179,7 @@
       <updated>1701781589464</updated>
       <workItem from="1701781595019" duration="9360000" />
       <workItem from="1701960734009" duration="632000" />
-      <workItem from="1701961545639" duration="6518000" />
+      <workItem from="1701961545639" duration="10656000" />
     </task>
     <task id="LOCAL-00001" summary="project structure">
       <created>1701784123924</created>
@@ -274,7 +202,49 @@
       <option name="project" value="LOCAL" />
       <updated>1701885060063</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="refactoring + 2nd lab">
+      <created>1701968251892</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1701968251892</updated>
+    </task>
+    <task id="LOCAL-00005" summary="delete files">
+      <created>1701968353144</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1701968353144</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fix 2nd lab">
+      <created>1701969699583</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1701969699583</updated>
+    </task>
+    <task id="LOCAL-00007" summary="settings">
+      <created>1701969830360</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1701969830360</updated>
+    </task>
+    <task id="LOCAL-00008" summary="3rd lab: tests">
+      <created>1701972242333</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1701972242333</updated>
+    </task>
+    <task id="LOCAL-00009" summary="deleting extra tests classes">
+      <created>1701972309788</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1701972309788</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -298,7 +268,13 @@
     <MESSAGE value="project structure" />
     <MESSAGE value="adding card, deck &amp; shuffler" />
     <MESSAGE value="strategy logic" />
-    <option name="LAST_COMMIT_MESSAGE" value="strategy logic" />
+    <MESSAGE value="refactoring + 2nd lab" />
+    <MESSAGE value="delete files" />
+    <MESSAGE value="fix 2nd lab" />
+    <MESSAGE value="settings" />
+    <MESSAGE value="3rd lab: tests" />
+    <MESSAGE value="deleting extra tests classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="deleting extra tests classes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

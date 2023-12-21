@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8444f59c_002Da28f_002D435c_002D8502_002D67779abda34f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CreateCardDeck_ShouldContain18RedsAnd18Blacks" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::42CCBB06-27B4-4EEA-B7A0-44788AFFF20C::net7.0::CardGameInRomanColiseumTests.CardGameTests.CreateCardDeck_ShouldContain18RedsAnd18Blacks&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::42CCBB06-27B4-4EEA-B7A0-44788AFFF20C::net7.0::CardGameInRomanColiseumTests.CardGameTests.PerformStrategy_WithOrderedHalfBlacksAndHalfReds_ShouldReturn50Percent&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::42CCBB06-27B4-4EEA-B7A0-44788AFFF20C::net7.0::CardGameInRomanColiseumTests.CardGameTests.ConductExperiment_DeckShouldBeShuffled&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::42CCBB06-27B4-4EEA-B7A0-44788AFFF20C::net7.0::CardGameInRomanColiseumTests.CardGameTests.ConductExperiment_ZeroWinningCondition_ResultShouldBeZero&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

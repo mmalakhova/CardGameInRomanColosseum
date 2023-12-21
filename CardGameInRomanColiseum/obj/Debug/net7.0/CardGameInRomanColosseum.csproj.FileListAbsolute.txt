@@ -1,0 +1,15 @@
+C:\Users\marij\RiderProjects\CardGameInRomanColosseumConsole\CardGameInRomanColosseum\obj\Debug\net7.0\CardGameInRomanColosseum.csproj.AssemblyReference.cache
+C:\Users\marij\RiderProjects\CardGameInRomanColosseumConsole\CardGameInRomanColosseum\obj\Debug\net7.0\CardGameInRomanColosseum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marij\RiderProjects\CardGameInRomanColosseumConsole\CardGameInRomanColosseum\obj\Debug\net7.0\CardGameInRomanColosseum.AssemblyInfoInputs.cache
+C:\Users\marij\RiderProjects\CardGameInRomanColosseumConsole\CardGameInRomanColosseum\obj\Debug\net7.0\CardGameInRomanColosseum.AssemblyInfo.cs
+C:\Users\marij\RiderProjects\CardGameInRomanColosseumConsole\CardGameInRomanColosseum\obj\Debug\net7.0\CardGameInRomanColosseum.csproj.CoreCompileInputs.cache
+C:\Users\marij\RiderProjects\CardGameInRomanColosseumConsole\CardGameInRomanColosseum\bin\Debug\net7.0\CardGameInRomanColosseum.exe
+C:\Users\marij\RiderProjects\CardGameInRomanColosseumConsole\CardGameInRomanColosseum\bin\Debug\net7.0\CardGameInRomanColosseum.deps.json
+C:\Users\marij\RiderProjects\CardGameInRomanColosseumConsole\CardGameInRomanColosseum\bin\Debug\net7.0\CardGameInRomanColosseum.runtimeconfig.json
+C:\Users\marij\RiderProjects\CardGameInRomanColosseumConsole\CardGameInRomanColosseum\bin\Debug\net7.0\CardGameInRomanColosseum.dll
+C:\Users\marij\RiderProjects\CardGameInRomanColosseumConsole\CardGameInRomanColosseum\bin\Debug\net7.0\CardGameInRomanColosseum.pdb
+C:\Users\marij\RiderProjects\CardGameInRomanColosseumConsole\CardGameInRomanColosseum\obj\Debug\net7.0\CardGameInRomanColosseum.dll
+C:\Users\marij\RiderProjects\CardGameInRomanColosseumConsole\CardGameInRomanColosseum\obj\Debug\net7.0\refint\CardGameInRomanColosseum.dll
+C:\Users\marij\RiderProjects\CardGameInRomanColosseumConsole\CardGameInRomanColosseum\obj\Debug\net7.0\CardGameInRomanColosseum.pdb
+C:\Users\marij\RiderProjects\CardGameInRomanColosseumConsole\CardGameInRomanColosseum\obj\Debug\net7.0\CardGameInRomanColosseum.genruntimeconfig.cache
+C:\Users\marij\RiderProjects\CardGameInRomanColosseumConsole\CardGameInRomanColosseum\obj\Debug\net7.0\ref\CardGameInRomanColosseum.dll

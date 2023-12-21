@@ -2,17 +2,23 @@
 
 public class Statistics
 {
-    public decimal _ratio { get; set; }
+    public double? Ratio { get; set; }
+    public int OverallExperimentsNumber { get; set; }
+    public int SuccessfulExperimentsNumber { get; set; }
 
-    public void CalculateStatistics(ExperimentResult experimentResult)
+    public void registerSuccess()
     {
-        if (experimentResult.NumberOfDefeats == 0) experimentResult.NumberOfDefeats = 1;
-        _ratio = Math.Round((decimal)experimentResult.NumberOfVictories / experimentResult.NumberOfDefeats * 100, 1,
-            MidpointRounding.ToEven);
+        ++OverallExperimentsNumber;
+        ++SuccessfulExperimentsNumber;
     }
 
-    public void DisplayStatistics()
+    public void registerFailure()
     {
-        Console.WriteLine($"Number of successes to total number of experiments: {_ratio}%");
+        ++OverallExperimentsNumber;
+    }
+    
+    public void Calculate()
+    {
+        Ratio = (double) SuccessfulExperimentsNumber / OverallExperimentsNumber * 100;
     }
 }

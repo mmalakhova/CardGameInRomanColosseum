@@ -973,6 +973,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "CardGameInRomanColiseum/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/CardGameInRomanColiseum.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CardGameInRomanColiseum.dll": {}
+        }
       }
     }
   },
@@ -3945,10 +3955,16 @@
         "system.xml.xdocument.4.0.11.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
+    },
+    "CardGameInRomanColiseum/1.0.0": {
+      "type": "project",
+      "path": "../CardGameInRomanColiseum/CardGameInRomanColiseum.csproj",
+      "msbuildProject": "../CardGameInRomanColiseum/CardGameInRomanColiseum.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "CardGameInRomanColiseum >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.3.2",
       "NUnit >= 3.13.3",
       "NUnit.Analyzers >= 3.3.0",
@@ -3984,7 +4000,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\marij\\RiderProjects\\CardGameInRomanColosseumConsole\\CardGameInRomanColiseum\\CardGameInRomanColiseum.csproj": {
+              "projectPath": "C:\\Users\\marij\\RiderProjects\\CardGameInRomanColosseumConsole\\CardGameInRomanColiseum\\CardGameInRomanColiseum.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
